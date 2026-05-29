@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeruync",
+        "uuid": 28773606,
+        "checksum": "1jjdnj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
